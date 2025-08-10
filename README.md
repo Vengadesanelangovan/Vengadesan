@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi there, I'm <a href="https://github.com/YOUR-USERNAME">YOUR NAME</a> 👋
+  Hi there, I'm <a href="https://github.com/YOUR-USERNAME">VENGADESAN E</a> 👋
 </h1>
 
 <p align="center">
@@ -11,7 +11,7 @@
 ### 🚀 About Me
 - 🌱 I’m currently learning **Python & Cloud**
 - 💡 Interested in **AI, Automation, and Security**
-- 📫 Reach me: [your-email@example.com](mailto:your-email@example.com)
+- 📫 Reach me: [vengadesanelangogmail.com](mailto:vengadesanelangogmail.com)
 
 ---
 
